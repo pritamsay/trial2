@@ -1,0 +1,21 @@
+body{
+
+  width: 70%;
+  align-items:center;
+  text-align: center;
+}
+table{
+  width: 80%;
+}
+.small{
+  width: 20%;
+}
+.heading{
+  background-color: #FFB6C1;
+}
+.announcements{
+  background-color: #FFB6C1;
+}
+.black{
+  background-color: #FFB6C1;
+}
